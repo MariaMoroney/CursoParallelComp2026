@@ -1,0 +1,142 @@
+{
+  "train_describe": [
+    {
+      "statistic": "count",
+      "Store": 1017209.0,
+      "DayOfWeek": 1017209.0,
+      "Date": "1017209",
+      "Sales": 1017209.0,
+      "Customers": 1017209.0,
+      "Open": 1017209.0,
+      "Promo": 1017209.0,
+      "StateHoliday": "1017209",
+      "SchoolHoliday": 1017209.0
+    },
+    {
+      "statistic": "null_count",
+      "Store": 0.0,
+      "DayOfWeek": 0.0,
+      "Date": "0",
+      "Sales": 0.0,
+      "Customers": 0.0,
+      "Open": 0.0,
+      "Promo": 0.0,
+      "StateHoliday": "0",
+      "SchoolHoliday": 0.0
+    },
+    {
+      "statistic": "mean",
+      "Store": 558.4297268309659,
+      "DayOfWeek": 3.998340557348588,
+      "Date": "2014-04-11 01:30:42.846062",
+      "Sales": 5773.818972305593,
+      "Customers": 633.1459464082602,
+      "Open": 0.8301066939045958,
+      "Promo": 0.3815145166824124,
+      "StateHoliday": null,
+      "SchoolHoliday": 0.17864666946517382
+    },
+    {
+      "statistic": "std",
+      "Store": 321.9086511434533,
+      "DayOfWeek": 1.997390964940528,
+      "Date": null,
+      "Sales": 3849.926175234764,
+      "Customers": 464.41173388663276,
+      "Open": 0.37553922469319556,
+      "Promo": 0.4857586048774206,
+      "StateHoliday": null,
+      "SchoolHoliday": 0.38305636818092614
+    },
+    {
+      "statistic": "min",
+      "Store": 1.0,
+      "DayOfWeek": 1.0,
+      "Date": "2013-01-01",
+      "Sales": 0.0,
+      "Customers": 0.0,
+      "Open": 0.0,
+      "Promo": 0.0,
+      "StateHoliday": "0",
+      "SchoolHoliday": 0.0
+    },
+    {
+      "statistic": "25%",
+      "Store": 280.0,
+      "DayOfWeek": 2.0,
+      "Date": "2013-08-17",
+      "Sales": 3727.0,
+      "Customers": 405.0,
+      "Open": 1.0,
+      "Promo": 0.0,
+      "StateHoliday": null,
+      "SchoolHoliday": 0.0
+    },
+    {
+      "statistic": "50%",
+      "Store": 558.0,
+      "DayOfWeek": 4.0,
+      "Date": "2014-04-02",
+      "Sales": 5744.0,
+      "Customers": 609.0,
+      "Open": 1.0,
+      "Promo": 0.0,
+      "StateHoliday": null,
+      "SchoolHoliday": 0.0
+    },
+    {
+      "statistic": "75%",
+      "Store": 838.0,
+      "DayOfWeek": 6.0,
+      "Date": "2014-12-12",
+      "Sales": 7856.0,
+      "Customers": 837.0,
+      "Open": 1.0,
+      "Promo": 1.0,
+      "StateHoliday": null,
+      "SchoolHoliday": 0.0
+    },
+    {
+      "statistic": "max",
+      "Store": 1115.0,
+      "DayOfWeek": 7.0,
+      "Date": "2015-07-31",
+      "Sales": 41551.0,
+      "Customers": 7388.0,
+      "Open": 1.0,
+      "Promo": 1.0,
+      "StateHoliday": "c",
+      "SchoolHoliday": 1.0
+    }
+  ],
+  "train_nulls": {
+    "Store": 0,
+    "DayOfWeek": 0,
+    "Date": 0,
+    "Sales": 0,
+    "Customers": 0,
+    "Open": 0,
+    "Promo": 0,
+    "StateHoliday": 0,
+    "SchoolHoliday": 0
+  },
+  "store_nulls": {
+    "Store": 0,
+    "StoreType": 0,
+    "Assortment": 0,
+    "CompetitionDistance": 3,
+    "CompetitionOpenSinceMonth": 354,
+    "CompetitionOpenSinceYear": 354,
+    "Promo2": 0,
+    "Promo2SinceWeek": 544,
+    "Promo2SinceYear": 544,
+    "PromoInterval": 0
+  },
+  "target_summary": {
+    "mean": 5773.818972305593,
+    "median": 5744.0,
+    "min": 0.0,
+    "max": 41551.0,
+    "std": 3849.926175234759
+  }
+}

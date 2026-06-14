@@ -1,0 +1,38 @@
+[
+  {
+    "stage": "read",
+    "polars_s": 0.0196,
+    "pandas_s": 0.2698,
+    "speedup": 13.74
+  },
+  {
+    "stage": "filter",
+    "polars_s": 0.0031,
+    "pandas_s": 0.0346,
+    "speedup": 11.28
+  },
+  {
+    "stage": "join",
+    "polars_s": 0.0081,
+    "pandas_s": 0.0265,
+    "speedup": 3.26
+  },
+  {
+    "stage": "feature_engineering",
+    "polars_s": 0.1072,
+    "pandas_s": 0.6218,
+    "speedup": 5.8
+  },
+  {
+    "stage": "aggregation",
+    "polars_s": 0.0058,
+    "pandas_s": 0.0216,
+    "speedup": 3.75
+  },
+  {
+    "stage": "total",
+    "polars_s": 0.1437,
+    "pandas_s": 0.9742,
+    "speedup": 6.78
+  }
+]

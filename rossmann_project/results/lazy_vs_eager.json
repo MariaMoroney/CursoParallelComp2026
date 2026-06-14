@@ -1,0 +1,6 @@
+{
+  "eager_time_s": 0.023,
+  "lazy_time_s": 0.0299,
+  "eager_mem_delta_mb": -30.74,
+  "lazy_mem_delta_mb": 62.01
+}

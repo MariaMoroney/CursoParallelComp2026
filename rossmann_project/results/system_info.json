@@ -1,0 +1,7 @@
+{
+  "logical_cores": 10,
+  "physical_cores": 10,
+  "ram_gb": 17.18,
+  "dataset_mb": 38.06,
+  "n_rows": 1017209
+}
