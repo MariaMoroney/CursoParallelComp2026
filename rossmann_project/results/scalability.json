@@ -1,26 +1,26 @@
 [
   {
     "fraction": 0.25,
-    "polars_total": 0.0513,
-    "pandas_total": 0.4661,
-    "speedup": 9.09
+    "polars_total": 0.0528,
+    "pandas_total": 0.4413,
+    "speedup": 8.36
   },
   {
     "fraction": 0.5,
-    "polars_total": 0.0805,
-    "pandas_total": 0.6498,
-    "speedup": 8.07
+    "polars_total": 0.0831,
+    "pandas_total": 0.6395,
+    "speedup": 7.69
   },
   {
     "fraction": 0.75,
-    "polars_total": 0.1116,
-    "pandas_total": 0.8189,
-    "speedup": 7.34
+    "polars_total": 0.113,
+    "pandas_total": 0.8192,
+    "speedup": 7.25
   },
   {
     "fraction": 1.0,
-    "polars_total": 0.1258,
-    "pandas_total": 0.9186,
-    "speedup": 7.3
+    "polars_total": 0.1242,
+    "pandas_total": 0.9174,
+    "speedup": 7.39
   }
 ]
